@@ -11,7 +11,7 @@ public class ApplicationController {
     @GetMapping
     public  String sayHello(){
 
-        return  "Welcome Hii";
+        return  "CSI PUNE";
 }
     @GetMapping("/services")
     public  String sayServices(){
